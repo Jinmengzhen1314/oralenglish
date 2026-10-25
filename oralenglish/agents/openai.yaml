@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oralenglish TEM-4 Trainer"
+  short_description: "TEM-4 spoken debate trainer that fixes your Chinglish live"
+  default_prompt: "Use $oralenglish to start a round of TEM-4 oral argumentation training."
